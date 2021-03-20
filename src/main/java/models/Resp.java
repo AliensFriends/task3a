@@ -10,5 +10,5 @@ public class Resp {
     private String message;
     private long cnt;
     private List<Days> list;
-    private models.City city;
+    private City city;
 }
